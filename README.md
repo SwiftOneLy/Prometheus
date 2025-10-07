@@ -36,7 +36,7 @@
   <ul>
       <li>Desvio automático de obstáculos (HC-SR04)</li>  
     <li>Estratégia básica para resolução de labirintos (turns + tomada de decisão)</li>  
-     <li>Controle por motor DC com driver (ex.: L298N / TB6612)</li>  
+     <li>Driver de motor que controla o sentido e a velocidade dos motores DC do robô (L293D)</li>  
 <li>Estrutura modular para facilitar acréscimos (sensores, comunicação, etc.)</li>
   <br>
   </ul>
