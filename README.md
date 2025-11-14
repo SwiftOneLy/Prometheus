@@ -1,5 +1,7 @@
-![GitHub License](https://img.shields.io/github/license/SwiftOneLy/Prometheus?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 # Prometheus
 
